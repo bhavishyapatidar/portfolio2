@@ -1,0 +1,147 @@
+{
+  "developer": [
+      {
+          "id": "d001",
+          "firstName": "Bhavishya",
+          "lastName": "Patidar",
+          "title": "Full Stack Developer",
+          "email": "bhavishyapatidar2022@gmail.com",
+          "phone": "+91 6264031524",
+          "location": "Indore, Madhya Pradesh, India",
+          "about": "Passionate about developing user-friendly and responsive websites.",
+          "skills": [
+              { "name": "JavaScript", "level": 90 },
+              { "name": "Java", "level": 86 },
+              { "name": "SQL", "level": 82 },
+              { "name": "React.js", "level": 88 },
+              { "name": "Node.js", "level": 85 },
+              { "name": "jQuery", "level": 98 },
+              { "name": "DBMS", "level": 90 },
+              { "name": "Redux", "level": 85 },
+              { "name": "Tailwind CSS", "level": 70 },
+              { "name": "Express.js", "level": 80 },
+              { "name": "HTML/CSS", "level": 75 }
+          ],
+          "education": [
+              {
+                  "degree": "Master of Computer Application",
+                  "institution": "National Institute of Technology",
+                  "location": "Raipur, Chhattisgarh, India",
+                  "year": "2022-2025"
+              },
+              {
+                  "degree": "Bachelor of Computer Application",
+                  "institution": "Christian Eminent College",
+                  "location": "Indore, Madhya Pradesh, India",
+                  "year": "2018-2021"
+              }
+          ],
+          "experience": [
+              {
+                  "position": "Full Stack Developer",
+                  "company": "TechnoFormatics (SMB COMMUNICATION PRIVATE LIMITED)",
+                  "location": "Indore, Madhya Pradesh, India",
+                  "period": "January 2025 - Present",
+                  "description": "Developed the frontend for the College Details and Compare College pages in the MyCollegeMentor project using React.js and Tailwind CSS, ensuring a responsive and user-friendly interface."
+              },
+              {
+                  "position": "Frontend Developer",
+                  "company": "CodSoft",
+                  "location": "Indore, Madhya Pradesh, India",
+                  "period": "May 2024 - June 2024",
+                  "description": "Developed a visually appealing and user-friendly interface using React.js and CSS, ensuring a seamless shopping experience across all devices with a fully responsive design. Implemented a dynamic product catalog allowing users to easily browse and filter items while leveraging React state management and reusable JSX components for efficient handling of user interactions."
+              }
+          ],
+          "projects": [
+              {
+                  "id": "p001",
+                  "title": "foodHub",
+                  "category": "Web Application",
+                  "description": " It is a food Ordering website where you can order food.",
+                  "image": "/foodHub.png",
+                  "technologies": ["MERN Stack"],
+                  "year": "2024"
+              },
+              {
+                  "id": "p002",
+                  "title": " Womans Fashion-shopping-website",
+                  "category": "Website",
+                  "description": "It is a Shopping Website for Woman",
+                  "image": "/woman.png",
+                  "technologies": ["Reactjs", "CSS", "HTML5","Javascript"],
+                  "year": "2024"
+              },
+              {
+                  "id": "p003",
+                  "title": " Room Rental System",
+                  "category": "Web Application",
+                  "description": "Built a room rental system with real-time chat and Google Maps integration for location visualization and calculate shortest path.",
+                  "image": "/room.jpg",
+                  "technologies": ["MERN Stack"],
+                  "year": "2024"
+              },
+              {
+                  "id": "p004",
+                  "title": "Video Sharing Web Application",
+                  "category": "Web Application",
+                  "description": "You can view, like, comment on any video also share video and filter videos. ",
+                  "image": "/youtube.png",
+                  "technologies": ["MERN Stack"],
+                  "year": "2024"
+              },
+              {
+                  "id": "p005",
+                  "title": "College Detailes",
+                  "category": "Web Page",
+                  "description": "Creating webpage for my college mentor project",
+                  "image": "/college.png",
+                  "technologies": ["Reactjs","TailwindCss","HTML5","Javascript"],
+                  "year": "2025"
+              },
+              {
+                  "id": "p006",
+                  "title": "Ecommerce Website",
+                  "category": "Website",
+                  "description": "Creating Frontend of an ecommerce shopping website which is responsive and intractive.",
+                  "image": "/ecommerce.png",
+                  "technologies": ["Reactjs","TailwindCss","HTML5","Javascript"],
+                  "year": "2025"
+              }
+
+          ],
+          "testimonials": [
+              {
+                  "name": "Rajesh Mehta",
+                  "position": "Product Manager, TechVision",
+                  "content": "Bhavishya has an exceptional eye for detail and a deep understanding of user psychology. His designs not only look beautiful but always serve the core purpose of enhancing usability.",
+                  "avatar": "/photo.jpg"
+              },
+              {
+                  "name": "Priya Desai",
+                  "position": "CEO, Digital Creatives",
+                  "content": "Working with Bhavishya was transformative for our products. He brings both creativity and strategic thinking to the table, resulting in designs that truly resonate with users.",
+                  "avatar": "/photo.jpg"
+              },
+              {
+                  "name": "Arjun Nair",
+                  "position": "Developer Lead, FinWise",
+                  "content": "As a developer, I appreciate how Bhavishya creates designs that are not only beautiful but also implementable. His attention to detail and documentation make the development process so much smoother.",
+                  "avatar": "/photo.jpg"
+              }
+          ],
+          "social": {
+              "linkedin": "https://www.linkedin.com/in/bhavishya-patidar-453656245",
+              "github": "https://github.com/bhavishyapatidar"
+          },
+          "avatar": "/bhavishya.jpg",
+          "resumn":"/resumn.png",
+          "colors": {
+              "primary": "#7209B7",
+              "secondary": "#3A0CA3",
+              "accent": "#F72585",
+              "lightBg": "#F8F9FA",
+              "darkText": "#212529"
+          }
+      }
+  ]
+}
